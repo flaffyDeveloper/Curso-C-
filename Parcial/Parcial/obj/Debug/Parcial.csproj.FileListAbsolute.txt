@@ -1,0 +1,8 @@
+C:\Users\Cesar M\source\repos\Parcial\Parcial\bin\Debug\Parcial.exe.config
+C:\Users\Cesar M\source\repos\Parcial\Parcial\bin\Debug\Parcial.exe
+C:\Users\Cesar M\source\repos\Parcial\Parcial\bin\Debug\Parcial.pdb
+C:\Users\Cesar M\source\repos\Parcial\Parcial\obj\Debug\Parcial.csproj.AssemblyReference.cache
+C:\Users\Cesar M\source\repos\Parcial\Parcial\obj\Debug\Parcial.csproj.CoreCompileInputs.cache
+C:\Users\Cesar M\source\repos\Parcial\Parcial\obj\Debug\Parcial.exe
+C:\Users\Cesar M\source\repos\Parcial\Parcial\obj\Debug\Parcial.pdb
+C:\Users\Cesar M\source\repos\Parcial\Parcial\obj\Debug\Parcial.exe.config
