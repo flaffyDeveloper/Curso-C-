@@ -1,0 +1,8 @@
+C:\Users\Cesar M\source\repos\noticas\noticas\bin\Debug\noticas.exe.config
+C:\Users\Cesar M\source\repos\noticas\noticas\bin\Debug\noticas.exe
+C:\Users\Cesar M\source\repos\noticas\noticas\bin\Debug\noticas.pdb
+C:\Users\Cesar M\source\repos\noticas\noticas\obj\Debug\noticas.csproj.AssemblyReference.cache
+C:\Users\Cesar M\source\repos\noticas\noticas\obj\Debug\noticas.csproj.CoreCompileInputs.cache
+C:\Users\Cesar M\source\repos\noticas\noticas\obj\Debug\noticas.exe
+C:\Users\Cesar M\source\repos\noticas\noticas\obj\Debug\noticas.pdb
+C:\Users\Cesar M\source\repos\noticas\noticas\obj\Debug\noticas.exe.config
