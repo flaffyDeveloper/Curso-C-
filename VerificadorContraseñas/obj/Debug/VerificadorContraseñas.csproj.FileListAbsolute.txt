@@ -1,0 +1,8 @@
+C:\Users\Cesar M\source\repos\VerificadorContraseñas\bin\Debug\VerificadorContraseñas.exe.config
+C:\Users\Cesar M\source\repos\VerificadorContraseñas\bin\Debug\VerificadorContraseñas.exe
+C:\Users\Cesar M\source\repos\VerificadorContraseñas\bin\Debug\VerificadorContraseñas.pdb
+C:\Users\Cesar M\source\repos\VerificadorContraseñas\obj\Debug\VerificadorContraseñas.csproj.AssemblyReference.cache
+C:\Users\Cesar M\source\repos\VerificadorContraseñas\obj\Debug\VerificadorContraseñas.csproj.CoreCompileInputs.cache
+C:\Users\Cesar M\source\repos\VerificadorContraseñas\obj\Debug\VerificadorContraseñas.exe
+C:\Users\Cesar M\source\repos\VerificadorContraseñas\obj\Debug\VerificadorContraseñas.pdb
+C:\Users\Cesar M\source\repos\VerificadorContraseñas\obj\Debug\VerificadorContraseñas.exe.config
